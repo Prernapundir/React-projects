@@ -1,0 +1,38 @@
+h3,h4{
+  font-weight: bold;
+}
+
+.tabs {
+  margin-right: 80px;
+}
+
+.fa {
+  color:darkgreen;
+  margin-right: 20px;
+}
+.sub-header p {
+  margin-left: 35px;
+}
+.middle {
+  background-color:#F5F5F5;
+  margin-top: 30px;
+}
+.image img {
+  margin-left:30px;
+  width:400px;
+  height:400px;
+}
+.btn{
+  color:darkgreen;
+  border: 2px solid darkgreen;
+}
+.skills{
+  margin-top: 30px;
+}
+hr{
+  border:1px solid green;
+  border-radius:5px;
+  width:100px;
+  margin-right:400px;
+  margin-top: -2px;
+}
