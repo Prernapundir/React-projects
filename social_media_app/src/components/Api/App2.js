@@ -9,7 +9,7 @@ class App2 extends Component {
    
 componentDidMount() {
 
-    const url ='https://jsonplaceholder.typicode.com/photos';
+    const url ='https://jsonplaceholder.typicode.com/posts';
         fetch(url)
         .then((response) => {
             return response.json();
